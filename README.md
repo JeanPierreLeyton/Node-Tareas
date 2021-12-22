@@ -9,7 +9,7 @@ Inquirer.js
 
 Objetivo y filosofía
 
-Inquirer.jsse esfuerza por ser una hermosa interfaz de línea de comandos fácilmente integrable para Node.js (y quizás la "CLI Xanadu ").
+Inquirer.js se esfuerza por ser una hermosa interfaz de línea de comandos fácilmente integrable para Node.js (y quizás la "CLI Xanadu ").
 
 Inquirer.js debería facilitar el proceso de:
 
