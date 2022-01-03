@@ -4,6 +4,7 @@
 Paquetes:
   - Colors
   - inquirer: https://www.npmjs.com/package/inquirer
+  - UUID
 
 Inquirer.js
 
@@ -18,5 +19,11 @@ Inquirer.js debería facilitar el proceso de:
 - analizando la entrada
 - validando respuestas
 - gestionar avisos jerárquicos
+
+
+UUID
+
+Crear ID unicos a nivel mundial 
+
 ```
 
